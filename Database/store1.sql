@@ -138,7 +138,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `username`, `password`, `email`) VALUES
-(1, 'mayurik', 'cd92a26534dba48cd785cdcc0b3e6bd1', 'mayuri.infospace@gmail.com');
+(1, 'rephel', 'cd92a26534dba48cd785cdcc0b3e6bd1', 'rephel@lokiwebvibe.com');
 
 --
 -- Indexes for dumped tables
